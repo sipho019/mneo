@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Sipho"
+rootProject.name = "SocialSparkApp"
 include(":app")
+ 
